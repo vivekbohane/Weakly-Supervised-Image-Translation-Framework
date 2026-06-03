@@ -1,0 +1,16 @@
+paths:
+  data_in: ../Data_files/W/Data/train_i_10
+  data_out: ../Data_files/W/Data/train_o_10
+  data_pack: ../Data_files/W/Data/train_o_10_crops
+
+center_paths:
+  data_in: ../Data_files\W\Data\New_type_files\input_crop
+  data_out: ../Data_files\W\Data\New_type_files\output_crop
+  data_out_512: ../Data_files\W\Data\New_type_files\output_603
+  coordinates: ../Data_files\W\Data\New_type_files\crop_coordinates.csv
+
+center_paths_gray_png:
+  data_in: ../Data_files\W\Data\New_type_files\input_crop_png
+  data_out: ../Data_files\W\Data\New_type_files\output_crop_gray_png
+  data_out_512: ../Data_files\W\Data\New_type_files\output_603_gray_png
+  coordinates: ../Data_files\W\Data\New_type_files\crop_coordinates_png.csv
