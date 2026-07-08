@@ -4,11 +4,11 @@ Weakly Supervised Image Translation Framework for Unregistered Paired Microscopy
 ## Model Architecture
 
 
-![Model Architecture](ws_itf_architecture.png)
+![Model Architecture](schematic_workflow.jpg)
 
 ## Results
 
-![Reconstruction Results](sample_results.png)
+![Reconstruction Results](qualitative_comparison.jpg)
 
 ## Required Libraries
 
